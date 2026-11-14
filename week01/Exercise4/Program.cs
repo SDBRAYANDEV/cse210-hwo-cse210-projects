@@ -1,9 +1,10 @@
-using System;
+<Project Sdk="Microsoft.NET.Sdk">
 
-class Program
-{
-    static void Main(string[] args)
-    {
-        Console.WriteLine("Hello World! This is the Exercise4 Project.");
-    }
-}
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
